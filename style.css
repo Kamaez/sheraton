@@ -1,0 +1,40 @@
+
+
+h1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.transition{
+    margin: 0px 50px;
+}
+
+.carousel {
+   
+    height: 800px;
+    width: 800px;
+    float: left;
+    
+} 
+.carousel h5, .carousel p{
+    color:#FFF5E0;
+    font-family: sans-serif;
+    
+}
+
+.accomodation{
+    color: black;
+    
+}
+.floating-text{
+    padding-top: 200px;
+}
+
+body{
+    width: 100%;
+    background-color: whitesmoke;
+}
